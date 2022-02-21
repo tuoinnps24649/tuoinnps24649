@@ -1,0 +1,36 @@
+.ct{
+    margin-top: 20px;
+    width: 980px;
+    height: 1100px;
+}
+.noidung{
+    border: 0.5px solid #cccccc;
+    float: left;
+    padding-top: 30px;
+    margin-bottom: 12px;
+}
+.ct img{
+    padding-right: 20px;
+    margin-left: 10px;
+    margin-bottom: 24px;
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.nd a{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 40px;
+    color: #272f54;
+    text-decoration: none;
+}
+.nd2{
+    margin-top: 40px;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.nd a:hover{
+    text-decoration: underline;
+    color: darksalmon;
+    
+}
